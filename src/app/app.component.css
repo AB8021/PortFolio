@@ -1,0 +1,21 @@
+.hero-banner {
+  background-size: cover;
+  background-color: darkgray;
+  background-position: center;
+  height: 50vh; /* Full height */
+  display: flex;
+  align-items: center;
+}
+.doneworks {
+  background-color: darkgray;
+  background-position: center;
+  padding-left: 20%;
+  padding-right: 20%;
+  display: flex;
+}
+.hero-text {
+  color: white;
+  text-align: left; /* Aligns text to the left */
+  max-width: 600px; /* Optional: Controls the text width */
+  padding-left: 5%; /* Adjust padding to slightly shift text */
+}
